@@ -8,11 +8,9 @@ This repository is for working through the curriculum and a place where everyone
 
 ## Communication
 
-### Slack
+### Discord
 
-- Request an invitation to the School of AI slack group using [https://wizards.herokuapp.com](https://wizards.herokuapp.com).
-- Log in to the `programming-wizards` Slack workspace using [https://programming-wizards.slack.com](https://programming-wizards.slack.com)
-- Join the #wizards_cincinnati Slack channel
+- Join our discord server using the following link https://discord.gg/cfQWpFX
 
 ### GitHub
 
